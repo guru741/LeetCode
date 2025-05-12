@@ -62,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/guru741/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/guru741/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
