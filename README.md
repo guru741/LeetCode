@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/guru741/LeetCode/tree/master/0048-rotate-image) |
 | [0209-minimum-size-subarray-sum](https://github.com/guru741/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/guru741/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2215-finding-3-digit-even-numbers](https://github.com/guru741/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/guru741/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/guru741/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/guru741/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/guru741/LeetCode/tree/master/0326-power-of-three) |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/guru741/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/guru741/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
