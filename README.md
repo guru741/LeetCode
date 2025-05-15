@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/guru741/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/guru741/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/guru741/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/guru741/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/guru741/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2215-finding-3-digit-even-numbers](https://github.com/guru741/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -86,8 +87,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/guru741/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/guru741/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/guru741/LeetCode/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/guru741/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/guru741/LeetCode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
