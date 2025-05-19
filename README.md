@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/guru741/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/guru741/LeetCode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/guru741/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0898-transpose-matrix](https://github.com/guru741/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/guru741/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/guru741/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/guru741/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/guru741/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/guru741/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/guru741/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/guru741/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/guru741/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/guru741/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/guru741/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/guru741/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/guru741/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/guru741/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Two Pointers
 |  |
