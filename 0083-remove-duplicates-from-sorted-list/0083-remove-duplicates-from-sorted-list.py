@@ -8,7 +8,7 @@ class Solution(object):
         if head is None:
             return
         curr = head
-        while curr and curr.next:
+        while curr.next:
             if curr.val == curr.next.val:
                 curr.next = curr.next.next
             else:
