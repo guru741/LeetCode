@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/guru741/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/guru741/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/guru741/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/guru741/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2215-finding-3-digit-even-numbers](https://github.com/guru741/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3194-find-words-containing-character](https://github.com/guru741/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/guru741/LeetCode/tree/master/3321-type-of-triangle) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/guru741/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/guru741/LeetCode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/guru741/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/guru741/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/guru741/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/guru741/LeetCode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/guru741/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/guru741/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/guru741/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/guru741/LeetCode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/guru741/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/guru741/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/guru741/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/guru741/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/guru741/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/guru741/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/guru741/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
