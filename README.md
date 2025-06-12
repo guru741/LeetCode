@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/guru741/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3194-find-words-containing-character](https://github.com/guru741/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/guru741/LeetCode/tree/master/3321-type-of-triangle) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/guru741/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Sliding Window
 |  |
 | ------- |
