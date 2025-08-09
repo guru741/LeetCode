@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/guru741/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0801-is-graph-bipartite](https://github.com/guru741/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -229,4 +230,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/guru741/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/guru741/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/guru741/LeetCode/tree/master/0801-is-graph-bipartite) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/guru741/LeetCode/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/guru741/LeetCode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
