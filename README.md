@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/guru741/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/guru741/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/guru741/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Binary Search Tree
 |  |
@@ -257,13 +258,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/guru741/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/guru741/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/guru741/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/guru741/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/guru741/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/guru741/LeetCode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
