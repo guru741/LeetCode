@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guru741/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/guru741/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/guru741/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/guru741/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/guru741/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/guru741/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/guru741/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/guru741/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/guru741/LeetCode/tree/master/0268-missing-number) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/guru741/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/guru741/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/guru741/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/guru741/LeetCode/tree/master/0059-spiral-matrix-ii) |
