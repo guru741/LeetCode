@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/guru741/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2215-finding-3-digit-even-numbers](https://github.com/guru741/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2245-destroying-asteroids](https://github.com/guru741/LeetCode/tree/master/2245-destroying-asteroids) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/guru741/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/guru741/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3194-find-words-containing-character](https://github.com/guru741/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/guru741/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/guru741/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1448-maximum-69-number](https://github.com/guru741/LeetCode/tree/master/1448-maximum-69-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/guru741/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/guru741/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/guru741/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/guru741/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/guru741/LeetCode/tree/master/3321-type-of-triangle) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/guru741/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/guru741/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/guru741/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/guru741/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/guru741/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/guru741/LeetCode/tree/master/0801-is-graph-bipartite) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/guru741/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
