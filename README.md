@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/guru741/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/guru741/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/guru741/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/guru741/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/guru741/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/guru741/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/guru741/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/guru741/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/guru741/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/guru741/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/guru741/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/guru741/LeetCode/tree/master/0268-missing-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/guru741/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/guru741/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/guru741/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/guru741/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/guru741/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/guru741/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/guru741/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2215-finding-3-digit-even-numbers](https://github.com/guru741/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
