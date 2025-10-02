@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/guru741/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/guru741/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/guru741/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/guru741/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/guru741/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/guru741/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/guru741/LeetCode/tree/master/0075-sort-colors) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/guru741/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/guru741/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/guru741/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/guru741/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/guru741/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/guru741/LeetCode/tree/master/0204-count-primes) |
