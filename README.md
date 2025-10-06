@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/guru741/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/guru741/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/guru741/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/guru741/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/guru741/LeetCode/tree/master/0389-find-the-difference) |
 | [2215-finding-3-digit-even-numbers](https://github.com/guru741/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/guru741/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/guru741/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/guru741/LeetCode/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/guru741/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/guru741/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/guru741/LeetCode/tree/master/0389-find-the-difference) |
 | [3194-find-words-containing-character](https://github.com/guru741/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/guru741/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/guru741/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/guru741/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/guru741/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Matrix
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/guru741/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/guru741/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
