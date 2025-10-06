@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/guru741/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/guru741/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/guru741/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/guru741/LeetCode/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/guru741/LeetCode/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/guru741/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/guru741/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/guru741/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/guru741/LeetCode/tree/master/0389-find-the-difference) |
 | [2215-finding-3-digit-even-numbers](https://github.com/guru741/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/guru741/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sorting
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/guru741/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/guru741/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/guru741/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/guru741/LeetCode/tree/master/0389-find-the-difference) |
 | [2215-finding-3-digit-even-numbers](https://github.com/guru741/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2245-destroying-asteroids](https://github.com/guru741/LeetCode/tree/master/2245-destroying-asteroids) |
 | [3321-type-of-triangle](https://github.com/guru741/LeetCode/tree/master/3321-type-of-triangle) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/guru741/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/guru741/LeetCode/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/guru741/LeetCode/tree/master/0389-find-the-difference) |
 | [3194-find-words-containing-character](https://github.com/guru741/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/guru741/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
