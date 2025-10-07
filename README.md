@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/guru741/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/guru741/LeetCode/tree/master/1541-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/guru741/LeetCode/tree/master/1670-patients-with-a-condition) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/guru741/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## String
 |  |
 | ------- |
