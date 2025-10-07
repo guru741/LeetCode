@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-list-the-products-ordered-in-a-period](https://github.com/guru741/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/guru741/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/guru741/LeetCode/tree/master/1541-top-travellers) |
+| [1670-patients-with-a-condition](https://github.com/guru741/LeetCode/tree/master/1670-patients-with-a-condition) |
 ## String
 |  |
 | ------- |
