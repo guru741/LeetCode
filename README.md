@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/guru741/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/guru741/LeetCode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/guru741/LeetCode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/guru741/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/guru741/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/guru741/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/guru741/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
