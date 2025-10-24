@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/guru741/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/guru741/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/guru741/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/guru741/LeetCode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/guru741/LeetCode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/guru741/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1448-maximum-69-number](https://github.com/guru741/LeetCode/tree/master/1448-maximum-69-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/guru741/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/guru741/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/guru741/LeetCode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/guru741/LeetCode/tree/master/0415-add-strings) |
 | [3194-find-words-containing-character](https://github.com/guru741/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/guru741/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/guru741/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/guru741/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/guru741/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/guru741/LeetCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/guru741/LeetCode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/guru741/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/guru741/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/guru741/LeetCode/tree/master/0898-transpose-matrix) |
