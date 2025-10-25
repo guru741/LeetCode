@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/guru741/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/guru741/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/guru741/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0561-array-partition](https://github.com/guru741/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/guru741/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/guru741/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/guru741/LeetCode/tree/master/0777-toeplitz-matrix) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/guru741/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/guru741/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/guru741/LeetCode/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/guru741/LeetCode/tree/master/0561-array-partition) |
 | [2215-finding-3-digit-even-numbers](https://github.com/guru741/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2245-destroying-asteroids](https://github.com/guru741/LeetCode/tree/master/2245-destroying-asteroids) |
 | [3321-type-of-triangle](https://github.com/guru741/LeetCode/tree/master/3321-type-of-triangle) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/guru741/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/guru741/LeetCode/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/guru741/LeetCode/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/guru741/LeetCode/tree/master/1448-maximum-69-number) |
 | [2245-destroying-asteroids](https://github.com/guru741/LeetCode/tree/master/2245-destroying-asteroids) |
 ## Queue
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/guru741/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/guru741/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
