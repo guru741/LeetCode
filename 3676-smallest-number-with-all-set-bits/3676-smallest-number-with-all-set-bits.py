@@ -1,4 +1,6 @@
 class Solution(object):
     def smallestNumber(self, n):
-        return 2 ** n.bit_length() - 1
+        n = bin(n)[2:]
+        n = n.replace('0','1')
+        return int(n,2)
         
