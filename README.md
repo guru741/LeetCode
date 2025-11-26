@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/guru741/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/guru741/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/guru741/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/guru741/LeetCode/tree/master/0495-teemo-attacking) |
 | [0561-array-partition](https://github.com/guru741/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/guru741/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/guru741/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/guru741/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/guru741/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/guru741/LeetCode/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/guru741/LeetCode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/guru741/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/guru741/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/guru741/LeetCode/tree/master/0898-transpose-matrix) |
